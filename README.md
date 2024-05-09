@@ -27,7 +27,7 @@ To run the project locally, follow these steps:
 2. Navigate to the project directory:
 
    ```bash
-   cd thrive-medical-form
+   cd ThriveHack
    ```
 
 3. Install the dependencies using npm:
