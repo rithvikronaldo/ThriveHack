@@ -58,11 +58,6 @@ To run the project locally, follow these steps:
 2. Submit the form to generate a medical PDF with the entered data.
 3. Print or save the PDF for documentation purposes.
 
-## Contributing 🤝
-
-Contributions are welcome! If you have any suggestions, feature requests, or bug reports, feel free to open an issue or submit a pull request.
-
-## License 📝
 
 This project is licensed under the [MIT License](LICENSE).
 
