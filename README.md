@@ -12,7 +12,7 @@ Thrive Medical Form is a web application designed to streamline the process of e
 - **React**: Built with React, a powerful JavaScript library for building user interfaces. ⚛️
 - **Yup**: Employs Yup for form validation, ensuring data accuracy and completeness. ✅
 - **Formik**: Integrates Formik for managing form state and handling form submissions with ease. 📋
-- **PDF Generation**: Generates a medical PDF document with the entered patient details for easy printing and documentation. 📄
+- **PDF Generation: Utilizes pdf-lib to generate a medical PDF document with the entered patient details for easy printing and documentation. 📄
 
 ## Installation 🛠️
 
