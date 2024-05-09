@@ -1,6 +1,6 @@
-# Hackathon Project: Thrive Medical Form 🚀
+# Hackathon Project: Thrive Health Medical Form 🚀
 
-Welcome to the Thrive Medical Form project, created for the [Hackathon Name]! 🏆
+Welcome to the Medical Form project ! 🏆
 
 ## Overview ℹ️
 
@@ -58,9 +58,4 @@ To run the project locally, follow these steps:
 2. Submit the form to generate a medical PDF with the entered data.
 3. Print or save the PDF for documentation purposes.
 
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Thank you for checking out Thrive Medical Form! For any inquiries, contact [Your Name](mailto:your-email@example.com). Happy coding! 👩‍💻👨‍💻
+ Happy coding! 👩‍💻👨‍💻
